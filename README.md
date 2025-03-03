@@ -12,3 +12,10 @@ a custom stm32 pcb design
 
 
 <img width="487" alt="image" src="https://github.com/user-attachments/assets/f372917e-50ba-4cd3-8bca-6c978557e9e7" />
+
+
+
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
